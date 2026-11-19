@@ -1,7 +1,7 @@
 ---
 title:
   en: Meta
-  zh-CN: 元信息
+  zh-CN:
 categories:
   - guide
   - advanced
